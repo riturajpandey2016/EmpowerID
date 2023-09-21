@@ -1,0 +1,16 @@
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\SearchManagement.exe
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\SearchManagement.dll
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\SearchManagement.deps.json
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\SearchManagement.runtimeconfig.json
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\SearchManagement.pdb
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\Azure.Core.dll
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\Azure.Search.Documents.dll
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\PubTmp\Out\System.Memory.Data.dll
