@@ -71,8 +71,13 @@ namespace PostsManagement.Services
             if (postDto is null)
             {
                 throw new ArgumentNullException(nameof(postDto));
-            }
+            } 
+            var isDataDuplicated = _context.Posts.FirstOrDefault(x => x.Title == postDto.Title || x.Content == postDto.Content);
 
+            if (isDataDuplicated != null)
+            {
+                throw new InvalidOperationException("Duplicated Data");
+            }
             Post post = new()
             {
                 Id = Guid.NewGuid(),
